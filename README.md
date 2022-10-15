@@ -3,12 +3,12 @@
 
 
 
-A Python developer from Pune. I love building applications & discussing new product ideas. Reach out to me on [twitter](https://twitter.com/piyush_shitole?t=EcF6MI20_DCb6LfxNFH3BA&s=08) if you'd like to talk ✌️
+A Android as well as as Web developer from Pune. I love building applications & discussing new product ideas. Reach out to me on [twitter](https://twitter.com/piyush_shitole?t=EcF6MI20_DCb6LfxNFH3BA&s=08) if you'd like to talk ✌️
 
 
 - 👋 Hi, I’m @piyushbig
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning BACKEND...
+- 🌱 I’m currently learning...
 - 💞️ I’m looking to collaborate on some projects...
 - 📫 Trying Being Profesional in life...
 
